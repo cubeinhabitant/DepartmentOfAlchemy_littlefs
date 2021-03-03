@@ -1,0 +1,12 @@
+# Syntax Coloring Map for DepartmentOfAlchemy_littlefs
+
+# Datatypes (KEYWORD1)
+DepartmentOfAlchemy_lfsAdapter	KEYWORD1
+DepartmentOfAlchemy_FlashSPI	KEYWORD1
+
+# Methods and Functions (KEYWORD2)
+getConfig	KEYWORD2
+
+# Instances (KEYWORD2)
+
+# Constants (LITERAL1)
